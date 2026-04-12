@@ -1,6 +1,6 @@
 ## Type
 
-<!-- Select one: feature | bugfix | refactor | docs | test | chore | ci -->
+<!-- Select one: feat | fix | refactor | docs | test | chore | perf | ci -->
 
 ## Related Issue
 
@@ -10,9 +10,15 @@
 
 <!-- What changed and why -->
 
+## Breaking Changes
+
+<!-- If this PR introduces breaking changes, describe them here -->
+N/A
+
 ## Checklist
 
 - [ ] Tests pass locally
 - [ ] Code follows project conventions
 - [ ] Documentation updated (if applicable)
 - [ ] No breaking changes (or documented above)
+- [ ] PR title follows conventional commits format (`type(scope): description`)
