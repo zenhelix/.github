@@ -1,13 +1,18 @@
+## Type
+
+<!-- Select one: feature | bugfix | refactor | docs | test | chore | ci -->
+
+## Related Issue
+
+<!-- #123 or N/A -->
+
 ## Summary
 
-Brief description of the changes.
-
-## Changes
-
-- ...
+<!-- What changed and why -->
 
 ## Checklist
 
 - [ ] Tests pass locally
 - [ ] Code follows project conventions
 - [ ] Documentation updated (if applicable)
+- [ ] No breaking changes (or documented above)

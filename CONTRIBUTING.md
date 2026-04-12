@@ -7,8 +7,28 @@ Thank you for your interest in contributing!
 1. Fork the repository
 2. Create a feature branch from `main`
 3. Make your changes
-4. Run tests: `./gradlew check`
+4. Run tests: `./gradlew check` (for Gradle projects)
 5. Submit a pull request
+
+## Project Types
+
+| Type | Description | Examples |
+|---|---|---|
+| Kotlin Library | Published to Maven Central | kt-utils, spring-kt, gradle-extensions |
+| Gradle Plugin | Published to Maven Central + Gradle Portal | gradle-magic-wands, maven-central-publish |
+| Application | Deployed, not published to registry | zenhelix-app |
+
+## Creating a New Project
+
+Use one of our template repositories:
+- [template-kotlin-library](https://github.com/zenhelix/template-kotlin-library) — single-module Kotlin library
+- [template-kotlin-library-multimodule](https://github.com/zenhelix/template-kotlin-library-multimodule) — multi-module Kotlin library
+- [template-gradle-plugin](https://github.com/zenhelix/template-gradle-plugin) — single-module Gradle plugin
+- [template-gradle-plugin-multimodule](https://github.com/zenhelix/template-gradle-plugin-multimodule) — multi-module Gradle plugin
+
+## CI/CD
+
+All projects use reusable workflows from [ci-workflows](https://github.com/zenhelix/ci-workflows). See its README for usage details.
 
 ## Conventions
 
