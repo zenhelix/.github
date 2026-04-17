@@ -16,9 +16,7 @@ Open-source Gradle plugins and Kotlin libraries — [zenhelix.github.io](https:/
 | [spring-kt](https://github.com/zenhelix/spring-kt) | Kotlin extensions for Spring Boot |
 | [kt-utils](https://github.com/zenhelix/kt-utils) | General Kotlin utilities |
 | [gradle-extensions](https://github.com/zenhelix/gradle-extensions) | Gradle extensions and utilities |
-| [dependency-hub](https://github.com/zenhelix/dependency-hub) | Centralized dependency version catalog |
 | [dependanger](https://github.com/zenhelix/dependanger) | Dependency analysis tool with CLI and Gradle plugin |
-| [zenhelix-ktlint-rules](https://github.com/zenhelix/zenhelix-ktlint-rules) | Custom KtLint rule set for Kotlin code formatting |
 
 ## Applications
 
@@ -26,12 +24,19 @@ Open-source Gradle plugins and Kotlin libraries — [zenhelix.github.io](https:/
 |---|---|
 | [zenhelix-app](https://github.com/zenhelix/zenhelix-app) | ZenHelix application |
 
+## Rules & Standards
+
+| Project | Description |
+|---|---|
+| [zenhelix-ktlint-rules](https://github.com/zenhelix/zenhelix-ktlint-rules) | Custom KtLint rule set for Kotlin code formatting |
+| [dependency-hub](https://github.com/zenhelix/dependency-hub) | Centralized dependency version catalog |
+| [zenhelix-ai-rules](https://github.com/zenhelix/zenhelix-ai-rules) | AI-assisted development coding standards |
+
 ## Developer Tools
 
 | Project | Description |
 |---|---|
 | [ci-workflows](https://github.com/zenhelix/ci-workflows) | Reusable GitHub Actions workflows |
-| [zenhelix-ai-rules](https://github.com/zenhelix/zenhelix-ai-rules) | AI-assisted development coding standards |
 
 ## Templates
 
