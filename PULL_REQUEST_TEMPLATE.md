@@ -21,4 +21,4 @@ N/A
 - [ ] Code follows project conventions
 - [ ] Documentation updated (if applicable)
 - [ ] No breaking changes (or documented above)
-- [ ] PR title follows conventional commits format (`type(scope): description`)
+- [ ] PR title follows conventional commits format (`type: description`)

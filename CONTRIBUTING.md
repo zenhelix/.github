@@ -29,14 +29,14 @@ Use one of our template repositories:
 
 ## CI/CD
 
-All projects use reusable workflows from [ci-workflows](https://github.com/zenhelix/ci-workflows):
+Each project has its own workflow files that delegate to reusable workflows from [ci-workflows](https://github.com/zenhelix/ci-workflows). The naming convention for project workflow files:
 
-| Workflow | Trigger | Purpose |
+| Project Workflow | Trigger | Purpose |
 |---|---|---|
-| `build-on-branch.yml` | Pull request | Run checks (build, test, lint) |
-| `build-on-main.yml` | Push to main | Run checks + create version tag |
-| `release-on-tag.yml` | Tag push | Build, publish artifacts, create GitHub release |
-| `labeler.yml` | Pull request | Auto-label PRs by changed files |
+| `build-on-branch.yml` | Pull request | Calls check + labeler workflows |
+| `build-on-main.yml` | Push to main | Calls check + create-tag workflows |
+| `release-on-tag.yml` | Tag push | Calls release + publish workflows |
+| `codeql-analysis.yml` | Push to main, PR, weekly | CodeQL security scanning |
 
 ## Conventions
 
