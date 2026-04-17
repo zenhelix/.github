@@ -16,7 +16,7 @@ Open-source Gradle plugins and Kotlin libraries.
 | [zenhelix-ktlint-rules](https://github.com/zenhelix/zenhelix-ktlint-rules) | Custom KtLint rule set for Kotlin code formatting |
 | [gradle-extensions](https://github.com/zenhelix/gradle-extensions) | Gradle extensions and utilities |
 | [dependency-hub](https://github.com/zenhelix/dependency-hub) | Centralized dependency version catalog |
-| [github-api-kt](https://github.com/zenhelix/github-api-kt) | Kotlin HTTP client for GitHub API |
+| [dependanger](https://github.com/zenhelix/dependanger) | Dependency analysis tool with CLI and Gradle plugin |
 | [spring-kt](https://github.com/zenhelix/spring-kt) | Kotlin extensions for Spring Boot |
 | [kt-utils](https://github.com/zenhelix/kt-utils) | General Kotlin utilities |
 
