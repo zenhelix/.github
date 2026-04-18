@@ -3,7 +3,6 @@ name: Security Vulnerability
 about: Report a security vulnerability (prefer email for sensitive issues)
 title: '[SECURITY] '
 labels: security
-assignees: dmitriimedakin
 ---
 
 **Please consider reporting sensitive vulnerabilities via email instead: dm.medakin.online@gmail.com**
