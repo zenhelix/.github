@@ -6,17 +6,17 @@ Open-source Gradle plugins and Kotlin libraries — [zenhelix.github.io](https:/
 
 | Project | Description |
 |---|---|
-| [gradle-magic-wands](https://github.com/zenhelix/gradle-magic-wands) | Convention and composition Gradle plugins for standardizing build configurations |
-| [maven-central-publish](https://github.com/zenhelix/maven-central-publish) | Gradle plugin for publishing artifacts to Maven Central |
+| [gradle-magic-wands](https://github.com/zenhelix/gradle-magic-wands) | Suite of convention and composition Gradle plugins for standardizing build configurations |
+| [maven-central-publish](https://github.com/zenhelix/maven-central-publish) | A Gradle plugin that simplifies publishing artifacts to Maven Central |
 
 ## Kotlin Libraries
 
 | Project | Description |
 |---|---|
-| [spring-kt](https://github.com/zenhelix/spring-kt) | Kotlin extensions for Spring Boot |
-| [kt-utils](https://github.com/zenhelix/kt-utils) | General Kotlin utilities |
-| [gradle-extensions](https://github.com/zenhelix/gradle-extensions) | Gradle extensions and utilities |
 | [dependanger](https://github.com/zenhelix/dependanger) | Dependency analysis tool with CLI and Gradle plugin |
+| [gradle-extensions](https://github.com/zenhelix/gradle-extensions) | Gradle extensions and utilities for Kotlin projects |
+| [kt-utils](https://github.com/zenhelix/kt-utils) | Kotlin utility library |
+| [spring-kt](https://github.com/zenhelix/spring-kt) | Kotlin extensions and utilities for Spring Boot |
 
 ## Applications
 
@@ -28,22 +28,23 @@ Open-source Gradle plugins and Kotlin libraries — [zenhelix.github.io](https:/
 
 | Project | Description |
 |---|---|
-| [zenhelix-ktlint-rules](https://github.com/zenhelix/zenhelix-ktlint-rules) | Custom KtLint rule set for Kotlin code formatting |
-| [dependency-hub](https://github.com/zenhelix/dependency-hub) | Centralized dependency version catalog |
-| [zenhelix-ai-rules](https://github.com/zenhelix/zenhelix-ai-rules) | AI-assisted development coding standards |
+| [dependency-hub](https://github.com/zenhelix/dependency-hub) | A centralized hub for all your Kotlin projects - consolidates shared libraries, tools, and frameworks |
+| [zenhelix-ai-rules](https://github.com/zenhelix/zenhelix-ai-rules) | Coding standards and principles for AI-assisted development on Zenhelix projects |
+| [zenhelix-ktlint-rules](https://github.com/zenhelix/zenhelix-ktlint-rules) | Custom KtLint rule set for opinionated Kotlin code formatting |
 
 ## Developer Tools
 
 | Project | Description |
 |---|---|
-| [ci-workflows](https://github.com/zenhelix/ci-workflows) | Reusable GitHub Actions workflows |
+| [ci-workflows](https://github.com/zenhelix/ci-workflows) | Reusable GitHub Actions workflows for the zenhelix organization |
 
 ## Templates
 
-| Template | Description |
+| Project | Description |
 |---|---|
-| [template-kotlin-library](https://github.com/zenhelix/template-kotlin-library) | Single-module Kotlin library |
-| [template-kotlin-library-multimodule](https://github.com/zenhelix/template-kotlin-library-multimodule) | Multi-module Kotlin library |
-| [template-gradle-plugin](https://github.com/zenhelix/template-gradle-plugin) | Single-module Gradle plugin |
-| [template-gradle-plugin-multimodule](https://github.com/zenhelix/template-gradle-plugin-multimodule) | Multi-module Gradle plugin |
-| [template-go-module](https://github.com/zenhelix/template-go-module) | Go module |
+| [template-go-module](https://github.com/zenhelix/template-go-module) | Template for Go module projects |
+| [template-gradle-plugin](https://github.com/zenhelix/template-gradle-plugin) | Template for single-module Gradle plugin projects |
+| [template-gradle-plugin-multimodule](https://github.com/zenhelix/template-gradle-plugin-multimodule) | Template for multi-module Gradle plugin projects |
+| [template-kotlin-library](https://github.com/zenhelix/template-kotlin-library) | Template for single-module Kotlin library projects |
+| [template-kotlin-library-multimodule](https://github.com/zenhelix/template-kotlin-library-multimodule) | Template for multi-module Kotlin library projects |
+
